@@ -1,0 +1,51 @@
+body{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    
+}
+img{
+    height: 170px;
+    position: absolute;
+    width: 170px;
+    float: left;
+    top: 1%;
+    left: 1%;
+} 
+header{
+    background-color: cyan;
+    text-align: center;
+    padding: 1em;
+    color: blue;
+    font-weight: 900;
+    text-shadow: 1px 1px ;
+    height: 150px;
+}
+header h1{
+    margin: 0;
+}
+header p{
+    margin: 5px 0 0;
+}
+section{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+    text-shadow: 0 0 3px red, 0 0 6px yellow;
+    font-weight: 900;
+}
+#about{
+    background-color: bisque;
+    text-align: center;
+}
+#contact{
+    background-color: pink;
+    text-align: center;
+}
+#skill{
+    background-color: beige;
+    text-align: center;
+    color: crimson;
+}
